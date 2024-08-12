@@ -102,6 +102,4 @@ This project was developed by following the [Complete CRUD Application with Node
 
 This project is licensed under the MIT License.
 
----
 
-You can adjust the content according to your project’s specific details and preferences.
