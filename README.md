@@ -100,6 +100,6 @@ This project was developed by following the [Complete CRUD Application with Node
 
 ## License
 
-This project is licensed under the MIT License.
+
 
 
